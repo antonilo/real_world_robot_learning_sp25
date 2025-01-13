@@ -2,7 +2,7 @@
 title: Foundations 
 ---
 
-<img src="/assets/images/foundations.png" style="width:600px; height:auto; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/foundations.png" style="width:600px; height:auto; padding:20px;">
 
 Feb. 4
 : Robot Perception I
