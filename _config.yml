@@ -17,7 +17,7 @@ title: RWRL SP25
 description: Website for RWRL course.
 author: Antonio Loquercio
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://antonilo.github.io/real_world_robot_learning_spring25/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://antonilo.github.io/real_world_robot_learning_sp25/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 github: [metadata]
 
