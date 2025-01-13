@@ -2,7 +2,7 @@
 title: Frontiers 
 ---
 
-<img src="/assets/images/frontiers.png" style="width:700px; height:auto; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/frontiers.png" style="width:700px; height:auto; padding:20px;">
 
 Apr. 1
 : **Guest Lecture**{: .label .label-green} 

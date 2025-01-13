@@ -2,7 +2,7 @@
 title: Data
 ---
 
-<img src="/assets/images/data.png" style="width:800px; height:auto; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/data.png" style="width:800px; height:auto; padding:20px;">
 
 Feb. 18
 : Learning from real-world robot data I
