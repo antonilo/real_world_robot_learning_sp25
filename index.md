@@ -45,13 +45,13 @@ The general idea behind this course is the following. We will start by going off
 
 <figure style="display: inline-flex;">
 <figure>
-<img src="/assets/images/al.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/al.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="https://antonilo.github.io/"><button type="button" name="button" class="btn">Antonio Loquercio</button>
 </a></figcaption>
 </figure>
 
 <figure>
-<img src="/assets/images/dj.jpg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/dj.jpg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="https://www.seas.upenn.edu/~dineshj/"><button type="button" name="button" class="btn">Dinesh Jayaraman</button>
 </a></figcaption>
 </figure>
@@ -64,7 +64,7 @@ The general idea behind this course is the following. We will start by going off
 <figure style="display: inline-flex;">
 
 <figure>
-<img src="/assets/images/tdb.png" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<img src="/real_world_robot_learning_sp25/assets/images/tdb.png" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">TBD</button>
 </a></figcaption>
 </figure>
