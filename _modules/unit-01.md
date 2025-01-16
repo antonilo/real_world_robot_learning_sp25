@@ -4,7 +4,7 @@ title: Overture
 
 Jan. 16
 : Intro + Overview
-  : [Syllabus](/_site/syllabus/)
+  : [Syllabus](https://antonilo.github.io/real_world_robot_learning_sp25/syllabus/)
 
 Jan. 21 
 : Supervised Learning (Review) 

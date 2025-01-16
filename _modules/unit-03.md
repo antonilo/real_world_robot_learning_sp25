@@ -21,7 +21,7 @@ Feb. 27
 : Learning from others’ data II
   : **Paper Reading**{: .label .label-red} 
 
-March. 4
+Mar. 4
 : Learning from Internet Data I
   : **Paper Reading**{: .label .label-red} 
 

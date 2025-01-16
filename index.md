@@ -8,7 +8,7 @@ seo:
 ---
 
 # Real-World Robot Learning 
-Spring 2025. ESE 6800. Tue / Thu 10:00-11:45. AGH 105.
+Spring 2025. ESE 6800/CS7000. Tue / Thu 10:15-11:45. AGH 105.
 
 ![Image](/assets/images/front_page.png)
 

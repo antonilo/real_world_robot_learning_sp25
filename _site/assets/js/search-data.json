@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Real-World Robot Learning",
-    "content": "Spring 2025. ESE 6800. Tue / Thu 10:00-11:45. AGH 105. ",
+    "content": "Spring 2025. ESE 6800/CS7000. Tue / Thu 10:15-11:45. AGH 105. ",
     "url": "/#real-world-robot-learning",
     
     "relUrl": "/#real-world-robot-learning"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Home",
     "title": "Data",
-    "content": ". Feb. 18 Learning from real-world robot data I Paper Reading Feb. 20 Learning from real-world robot data II Project Proposal Due Paper Reading Feb. 25 Learning from others’ data I Paper Reading Feb. 27 Learning from others’ data II Paper Reading March. 4 Learning from Internet Data I Paper Reading Mar. 6 Learning from Internet Data II Paper Reading Mar. 11 No Class Spring Break 🏝️ Mar. 13 No Class Spring Break 🏝️ Mar. 18 Learning from Synthetic Data I Paper Reading Mar. 20 Learning from Synthetic Data II Project Midterm Report Due Paper Reading Mar. 25 Lifelong Learning I Paper Reading Mar. 27 Lifelong Learning II Paper Reading ",
+    "content": ". Feb. 18 Learning from real-world robot data I Paper Reading Feb. 20 Learning from real-world robot data II Project Proposal Due Paper Reading Feb. 25 Learning from others’ data I Paper Reading Feb. 27 Learning from others’ data II Paper Reading Mar. 4 Learning from Internet Data I Paper Reading Mar. 6 Learning from Internet Data II Paper Reading Mar. 11 No Class Spring Break 🏝️ Mar. 13 No Class Spring Break 🏝️ Mar. 18 Learning from Synthetic Data I Paper Reading Mar. 20 Learning from Synthetic Data II Project Midterm Report Due Paper Reading Mar. 25 Lifelong Learning I Paper Reading Mar. 27 Lifelong Learning II Paper Reading ",
     "url": "/#data",
     
     "relUrl": "/#data"
@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": ". | Lecture 10:00 AM–11:45 AM AGH 103 | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM AGH 103 | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
@@ -127,7 +127,7 @@
   },"18": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Lecture 10:00 AM–11:45 AM AGH 103 | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM AGH 103 | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
@@ -183,7 +183,7 @@
   },"26": {
     "doc": "Syllabus",
     "title": "Logistics",
-    "content": ". | Title: Real-World Robot Learning, Spring 2025 | Course Number: ESE 6800-004 | Lecture: 10:00AM–11:45AM EST, Tue &amp; Thu | Office Hours: TBD | Location: AGH 105 | . ",
+    "content": ". | Title: Real-World Robot Learning, Spring 2025 | Course Number: ESE 6800-004 | Lecture: 10:15AM–11:45AM EST, Tue &amp; Thu | Office Hours: TBD | Location: AGH 105 | . ",
     "url": "/syllabus/#logistics",
     
     "relUrl": "/syllabus/#logistics"

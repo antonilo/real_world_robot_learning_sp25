@@ -26,7 +26,7 @@ This course offers a structured framework to explore these questions. We will st
 ## Logistics
 - **Title**: Real-World Robot Learning, Spring 2025
 - **Course Number**: ESE 6800-004 
-- **Lecture**: 10:00AM--11:45AM EST, Tue & Thu
+- **Lecture**: 10:15AM--11:45AM EST, Tue & Thu
 - **Office Hours**: TBD
 - **Location**: AGH 105
 
