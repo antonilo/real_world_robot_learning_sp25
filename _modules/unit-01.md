@@ -8,11 +8,11 @@ Jan. 16
 
 Jan. 21 
 : Intro To Imitation Learning & Reinforcement Learning Part I
-  : [Slides](./assets/pdfs/Lecture1-2-Imitation-And-RL.pdf)
+  : [Slides](./assets/pdfs/Lecture1-Imitation-And-RL.pdf)
 
 Jan. 23
 : Intro To Imitation Learning & Reinforcement Learning Part II 
-  : [Slides](./assets/pdfs/Lecture1-2-Imitation-And-RL.pdf)
+  : [Slides](./assets/pdfs/Lecture2-Imitation-And-RL.pdf)
 
 Jan. 28
 : Intro To Imitation Learning & Reinforcement Learning Part III 
