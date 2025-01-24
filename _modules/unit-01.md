@@ -7,18 +7,18 @@ Jan. 16
   : [Syllabus](https://antonilo.github.io/real_world_robot_learning_sp25/syllabus/)
 
 Jan. 21 
-: Supervised Learning (Review) 
-  : 
+: Intro To Imitation Learning & Reinforcement Learning Part I
+  : [Slides](./assets/pdfs/Lecture1-2-Imitation-And-RL.pdf)
 
 Jan. 23
-: How to use Pytorch (Review)
-  : 
+: Intro To Imitation Learning & Reinforcement Learning Part II 
+  : [Slides](./assets/pdfs/Lecture1-2-Imitation-And-RL.pdf)
 
 Jan. 28
-: Reinforcement Learning Part I (Review)
+: Intro To Imitation Learning & Reinforcement Learning Part III 
   : 
 
 Jan. 30
-: Reinforcement Learning Part II (Review)
+: Intro To Imitation Learning & Reinforcement Learning Part IV (Lab)
   : 
   
