@@ -64,8 +64,8 @@ The general idea behind this course is the following. We will start by going off
 <figure style="display: inline-flex;">
 
 <figure>
-<img src="/real_world_robot_learning_sp25/assets/images/tdb.png" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
-<figcaption style="text-align: center;"><a href=""><button type="button" name="button" class="btn">TBD</button>
+<img src="/real_world_robot_learning_sp25/assets/images/lmk.jpg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href="https://www.linkedin.com/in/leonmkim/"><button type="button" name="button" class="btn">Leon Kim</button>
 </a></figcaption>
 </figure>
 
