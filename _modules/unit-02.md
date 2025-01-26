@@ -7,16 +7,16 @@ title: Foundations
 Feb. 4
 : Robot Perception I
   : **Paper Reading**{: .label .label-red} 
-  <!-- **HW #2 Out**{: .label .label-default} -->
+  [A critique of pure vision](https://papers.cnl.salk.edu/PDFs/A%20Critique%20of%20Pure%20Vision%201994-2933.pdf)
 
 Feb. 6
 : Robot Perception II
-  : **Paper Reading**{: .label .label-red} 
+  : **Paper Reading**{: .label .label-red} [Intelligence w/o Representations](https://people.csail.mit.edu/brooks/papers/representation.pdf), [Designing Action-Based Sensors](https://journals.sagepub.com/doi/epdf/10.1177/027836499501400506)
 
 Feb. 11
 : The Development Perspective on Robot Learning I
-  : **Paper Reading**{: .label .label-red}
+  : **Paper Reading**{: .label .label-red} [Six Lessons from Babies](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)
 
 Feb. 13
 : The Development Perspective on Robot Learning II
-  : **Paper Reading**{: .label .label-red}
+  : **Paper Reading**{: .label .label-red} [Sensorimotor Learning](https://www.nature.com/articles/nrn3112), [Intrinsic Motivation](https://ieeexplore.ieee.org/document/4141061?denied=)

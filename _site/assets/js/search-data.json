@@ -14,8 +14,8 @@
     "relUrl": "/#announcements"
   },"2": {
     "doc": "Home",
-    "title": "Welcome!",
-    "content": "Jan 16 &middot; 0 min read Hi! We hope that you are as excited as us to start this new course! . ",
+    "title": "Get ready for the hands-on tutorial and first papers!",
+    "content": "Jan 26 &middot; 0 min read Please sign up for a weight and biases and huggingface account before our hands-on tutorial on policy learning. Also, we released the first papers! . ",
     "url": "/",
     
     "relUrl": "/"
@@ -36,21 +36,21 @@
   },"5": {
     "doc": "Home",
     "title": "Overture",
-    "content": "Jan. 16 Intro + Overview Syllabus Jan. 21 Supervised Learning (Review) Jan. 23 How to use Pytorch (Review) Jan. 28 Reinforcement Learning Part I (Review) Jan. 30 Reinforcement Learning Part II (Review) ",
+    "content": "Jan. 16 Intro + Overview Syllabus, Slides Jan. 21 Intro To Imitation Learning &amp; Reinforcement Learning Part I Slides Jan. 23 Intro To Imitation Learning &amp; Reinforcement Learning Part II Slides Jan. 28 Intro To Imitation Learning &amp; Reinforcement Learning Part III Jan. 30 Hands-on Tutorial on Policy Learning (Lab) Bring your laptop! ",
     "url": "/#overture",
     
     "relUrl": "/#overture"
   },"6": {
     "doc": "Home",
     "title": "Foundations",
-    "content": ". Feb. 4 Robot Perception I Paper Reading Feb. 6 Robot Perception II Paper Reading Feb. 11 The Development Perspective on Robot Learning I Paper Reading Feb. 13 The Development Perspective on Robot Learning II Paper Reading ",
+    "content": ". Feb. 4 Robot Perception I Paper Reading A critique of pure vision Feb. 6 Robot Perception II Paper Reading Intelligence w/o Representations, Designing Action-Based Sensors Feb. 11 The Development Perspective on Robot Learning I Paper Reading Six Lessons from Babies Feb. 13 The Development Perspective on Robot Learning II Paper Reading Sensorimotor Learning, Intrinsic Motivation ",
     "url": "/#foundations",
     
     "relUrl": "/#foundations"
   },"7": {
     "doc": "Home",
     "title": "Data",
-    "content": ". Feb. 18 Learning from real-world robot data I Paper Reading Feb. 20 Learning from real-world robot data II Project Proposal Due Paper Reading Feb. 25 Learning from others’ data I Paper Reading Feb. 27 Learning from others’ data II Paper Reading Mar. 4 Learning from Internet Data I Paper Reading Mar. 6 Learning from Internet Data II Paper Reading Mar. 11 No Class Spring Break 🏝️ Mar. 13 No Class Spring Break 🏝️ Mar. 18 Learning from Synthetic Data I Paper Reading Mar. 20 Learning from Synthetic Data II Project Midterm Report Due Paper Reading Mar. 25 Lifelong Learning I Paper Reading Mar. 27 Lifelong Learning II Paper Reading ",
+    "content": ". Feb. 18 Learning from real-world robot data I Paper Reading Motor Learning by Imitation Feb. 20 Learning from real-world robot data II Project Proposal Due Paper Reading Diffusion Policy, Aloha, Robots in Homes Feb. 25 Learning from others’ data I Paper Reading Feb. 27 Learning from others’ data II Paper Reading Mar. 4 Learning from Internet Data I Paper Reading Mar. 6 Learning from Internet Data II Paper Reading Mar. 11 No Class Spring Break 🏝️ Mar. 13 No Class Spring Break 🏝️ Mar. 18 Learning from Synthetic Data I Paper Reading Mar. 20 Learning from Synthetic Data II Project Midterm Report Due Paper Reading Mar. 25 Lifelong Learning I Paper Reading Mar. 27 Lifelong Learning II Paper Reading ",
     "url": "/#data",
     
     "relUrl": "/#data"

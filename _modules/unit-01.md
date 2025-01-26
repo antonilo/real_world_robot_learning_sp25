@@ -4,7 +4,8 @@ title: Overture
 
 Jan. 16
 : Intro + Overview
-  : [Syllabus](https://antonilo.github.io/real_world_robot_learning_sp25/syllabus/)
+  : [Syllabus](https://antonilo.github.io/real_world_robot_learning_sp25/syllabus/), 
+    [Slides](./assets/pdfs/Intro_slides.pdf)
 
 Jan. 21 
 : Intro To Imitation Learning & Reinforcement Learning Part I
@@ -19,6 +20,6 @@ Jan. 28
   : 
 
 Jan. 30
-: Intro To Imitation Learning & Reinforcement Learning Part IV (Lab)
-  : 
+: Hands-on Tutorial on Policy Learning (Lab)
+  : **Bring your laptop!**{: .label .label-default} 
   
