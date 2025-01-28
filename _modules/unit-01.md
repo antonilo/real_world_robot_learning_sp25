@@ -17,7 +17,7 @@ Jan. 23
 
 Jan. 28
 : Intro To Imitation Learning & Reinforcement Learning Part III 
-  : 
+  : [Slides](./assets/pdfs/Lecture3-Imitation-And-RL.pdf)
 
 Jan. 30
 : Hands-on Tutorial on Policy Learning (Lab)
