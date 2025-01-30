@@ -21,5 +21,5 @@ Jan. 28
 
 Jan. 30
 : Hands-on Tutorial on Policy Learning (Lab)
-  : **Bring your laptop!**{: .label .label-default} 
+  : **Bring your laptop!**{: .label .label-default} [IL Tutorial Colab](https://colab.research.google.com/github/antonilo/real_world_robot_learning_sp25/blob/main/_tutorials/lerobot_tutorial/lerobot_tutorial.ipynb)
   
