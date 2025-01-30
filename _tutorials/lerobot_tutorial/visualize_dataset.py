@@ -135,7 +135,7 @@ def visualize_dataset(
     rr.init(f"{repo_id}/episode_{episode_index}", spawn=spawn_local_viewer)
 
     if mode == "notebook":
-        rr.notebook_show()
+        rr.notebook_show(width=800, height=800)
 
     # Manually call python garbage collector after `rr.init` to avoid hanging in a blocking flush
     # when iterating on a dataloader with `num_workers` > 0
