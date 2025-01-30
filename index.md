@@ -69,6 +69,12 @@ The general idea behind this course is the following. We will start by going off
 </a></figcaption>
 </figure>
 
+<figure>
+<img src="/real_world_robot_learning_sp25/assets/images/js.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href="https://www.linkedin.com/in/junyaoshi/"><button type="button" name="button" class="btn">Junyao Shi</button>
+</a></figcaption>
+</figure>
+
 </figure>
 
 ## Related Courses
