@@ -11,7 +11,7 @@ Feb. 4
 
 Feb. 6
 : Robot Perception II
-  : **Paper Reading**{: .label .label-red} [Intelligence w/o Representations](https://people.csail.mit.edu/brooks/papers/representation.pdf), [Designing Action-Based Sensors]https://journals.sagepub.com/doi/pdf/10.1177/027836499501400506?casa_token=4FsQjCIi3gcAAAAA:Iyt1ZXnmbp4vqgpQJBk6qbf2WFLjr0_tYEIaKenEYNYRZShaM3G8jPehatlnYDH9NZlIBLS4wZl6QQ)
+  : **Paper Reading**{: .label .label-red} [Intelligence w/o Representations](https://people.csail.mit.edu/brooks/papers/representation.pdf), [Designing Action-Based Sensors](https://journals.sagepub.com/doi/pdf/10.1177/027836499501400506?casa_token=4FsQjCIi3gcAAAAA:Iyt1ZXnmbp4vqgpQJBk6qbf2WFLjr0_tYEIaKenEYNYRZShaM3G8jPehatlnYDH9NZlIBLS4wZl6QQ)
 
 Feb. 11
 : The Development Perspective on Robot Learning I
