@@ -6,7 +6,7 @@ title: Foundations
 
 Feb. 4
 : Robot Perception I 
-  : **Paper Reading**{: .label .label-red} 
+  : [Slides](/real_world_robot_learning_sp25/assets/pdfs/Robot_Perception_I.pdf), **Paper Reading**{: .label .label-red} 
   [A critique of pure vision](https://papers.cnl.salk.edu/PDFs/A%20Critique%20of%20Pure%20Vision%201994-2933.pdf)
 
 Feb. 6

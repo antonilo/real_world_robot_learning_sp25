@@ -36,14 +36,14 @@
   },"5": {
     "doc": "Home",
     "title": "Overture",
-    "content": "Jan. 16 Intro + Overview Syllabus, Slides Jan. 21 Intro To Imitation Learning &amp; Reinforcement Learning Part I Slides Jan. 23 Intro To Imitation Learning &amp; Reinforcement Learning Part II Slides Jan. 28 Intro To Imitation Learning &amp; Reinforcement Learning Part III Slides Jan. 30 Hands-on Tutorial on Policy Learning (Lab) Bring your laptop! ",
+    "content": "Jan. 16 Intro + Overview Syllabus, Slides Jan. 21 Intro To Imitation Learning &amp; Reinforcement Learning Part I Slides Jan. 23 Intro To Imitation Learning &amp; Reinforcement Learning Part II Slides Jan. 28 Intro To Imitation Learning &amp; Reinforcement Learning Part III Slides Jan. 30 Hands-on Tutorial on Policy Learning (Lab) Bring your laptop! IL Tutorial Colab, RL Tutorial Colab ",
     "url": "/#overture",
     
     "relUrl": "/#overture"
   },"6": {
     "doc": "Home",
     "title": "Foundations",
-    "content": ". Feb. 4 Robot Perception I Paper Reading A critique of pure vision Feb. 6 Robot Perception II Paper Reading Intelligence w/o Representations, Designing Action-Based Sensors Feb. 11 The Development Perspective on Robot Learning I Paper Reading Six Lessons from Babies Feb. 13 The Development Perspective on Robot Learning II Paper Reading Sensorimotor Learning, Intrinsic Motivation ",
+    "content": ". Feb. 4 Robot Perception I Slides, Paper Reading A critique of pure vision Feb. 6 Robot Perception II Paper Reading Intelligence w/o Representations, Designing Action-Based Sensors Feb. 11 The Development Perspective on Robot Learning I Paper Reading Six Lessons from Babies Feb. 13 The Development Perspective on Robot Learning II Paper Reading Sensorimotor Learning, Intrinsic Motivation ",
     "url": "/#foundations",
     
     "relUrl": "/#foundations"
