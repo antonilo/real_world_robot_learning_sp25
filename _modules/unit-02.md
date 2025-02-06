@@ -5,7 +5,7 @@ title: Foundations
 <img src="/real_world_robot_learning_sp25/assets/images/foundations.png" style="width:600px; height:auto; padding:20px;">
 
 Feb. 4
-: Robot Perception I
+: Robot Perception I 
   : **Paper Reading**{: .label .label-red} 
   [A critique of pure vision](https://papers.cnl.salk.edu/PDFs/A%20Critique%20of%20Pure%20Vision%201994-2933.pdf)
 
