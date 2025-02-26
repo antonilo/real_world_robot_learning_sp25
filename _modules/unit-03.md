@@ -23,11 +23,11 @@ Feb. 27
 
 Mar. 4
 : Learning from Internet Data I
-  : **Paper Reading**{: .label .label-red} [Learning Action Plans](https://ojs.aaai.org/index.php/AAAI/article/view/9671), [SayCan](https://arxiv.org/abs/2204.01691), [OpenVLA](https://arxiv.org/abs/2406.09246)
+  : **Paper Reading**{: .label .label-red} [Learning Action Plans](https://ojs.aaai.org/index.php/AAAI/article/view/9671), [SayCan](https://arxiv.org/abs/2204.01691), [VoxPoser](https://arxiv.org/abs/2307.05973)
 
 Mar. 6 
 : Learning from Internet Data II
-  : **Paper Reading**{: .label .label-red} [UniSim](https://arxiv.org/abs/2310.06114)
+  : **Paper Reading**{: .label .label-red} [OpenVLA](https://arxiv.org/abs/2406.09246), [UniPi](https://arxiv.org/abs/2310.06114)
 
 
 Mar. 11
