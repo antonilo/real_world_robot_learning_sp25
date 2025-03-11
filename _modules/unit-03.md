@@ -40,17 +40,17 @@ Mar. 13
 
 Mar. 18
 : Learning from Synthetic Data I
-  : **Paper Reading**{: .label .label-red} 
+  : **Paper Reading**{: .label .label-red} [ActuatorNet](https://arxiv.org/pdf/1901.08652) [Blind Locomotion](https://www.science.org/doi/10.1126/scirobotics.abc5986)
 
 Mar. 20
-: Learning from Synthetic Data II
-  : **Project Midterm Report Due**{: .label .label-yellow} **Paper Reading**{: .label .label-red} 
+: Learning from Synthetic Data II [DexTreme](https://arxiv.org/abs/2210.13702) [DexNet] (https://arxiv.org/abs/1703.09312)
+  : **Project Midterm Report Due**{: .label .label-yellow} **Paper Reading**{: .label .label-red}  **Guest Lecture at 11am (Towne 225)**{: .label .label-blue}
 
 Mar. 25
-: Lifelong Learning I
+: Lifelong Learning I [ImageNet Generalization](https://arxiv.org/abs/1902.10811)
   : **Paper Reading**{: .label .label-red} 
 
 Mar. 27
-: Lifelong Learning II
+: Lifelong Learning II [Progressive Nets](https://arxiv.org/abs/1606.04671) [Primacy Bias](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf)
   : **Paper Reading**{: .label .label-red}
 

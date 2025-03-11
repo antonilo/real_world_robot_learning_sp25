@@ -13,5 +13,5 @@ Apr. 24
   Presenters TBD
 
 Apr. 29
-: Best Presentation Awards 🍨
-  : **Project Report Due May 1**{: .label .label-yellow}
+: Grand Finale & Best Presentation Awards 🍨
+  : **Paper Reading**{: .label .label-red} **Project Report Due May 1**{: .label .label-yellow}

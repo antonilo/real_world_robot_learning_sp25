@@ -12,19 +12,18 @@ Apr. 3
 : Challenges for the field I
   : **Paper Reading**{: .label .label-red} 
 
-
 Apr. 8
-: **Guest Lecture**{: .label .label-green} 
-  : 
-
-Apr. 10
 : Challenges for the field II
   : **Paper Reading**{: .label .label-red}
 
-Apr. 15
+Apr. 10
 : Challenges for the field III
   : **Paper Reading**{: .label .label-red}
 
-Apr. 17
-: Grand Finale
+Apr. 15
+: Challenges for the field IV
   : **Paper Reading**{: .label .label-red}
+
+Apr. 17
+  : **Guest Lecture**{: .label .label-green} 
+    : [Siddhartha Srinivasa](https://goodrobot.ai/) 
