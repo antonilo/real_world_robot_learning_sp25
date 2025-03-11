@@ -47,10 +47,10 @@ Mar. 20
   : **Project Midterm Report Due**{: .label .label-yellow} **Paper Reading**{: .label .label-red}  **Guest Lecture at 11am (Towne 225)**{: .label .label-blue}
 
 Mar. 25
-: Lifelong Learning I [ImageNet Generalization](https://arxiv.org/abs/1902.10811)
-  : **Paper Reading**{: .label .label-red} 
+: Lifelong Learning I 
+  : **Paper Reading**{: .label .label-red} [ImageNet Generalization](https://arxiv.org/abs/1902.10811)
 
 Mar. 27
-: Lifelong Learning II [Progressive Nets](https://arxiv.org/abs/1606.04671) [Primacy Bias](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf)
-  : **Paper Reading**{: .label .label-red}
+: Lifelong Learning II 
+  : **Paper Reading**{: .label .label-red} [Progressive Nets](https://arxiv.org/abs/1606.04671) [Primacy Bias](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf)
 
