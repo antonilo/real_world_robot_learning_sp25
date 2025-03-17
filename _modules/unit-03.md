@@ -40,11 +40,11 @@ Mar. 13
 
 Mar. 18
 : Learning from Synthetic Data I
-  : **Paper Reading**{: .label .label-red} [ActuatorNet](https://arxiv.org/pdf/1901.08652) [Blind Locomotion](https://www.science.org/doi/10.1126/scirobotics.abc5986) [DexNet](https://arxiv.org/abs/1703.09312)
+  : **Paper Reading**{: .label .label-red} [ActuatorNet](https://arxiv.org/pdf/1901.08652) [Blind Locomotion](https://www.science.org/doi/10.1126/scirobotics.abc5986) [DexTreme](https://arxiv.org/abs/2210.13702)
 
 Mar. 20
 : Learning from Synthetic Data II  
-  : **Project Midterm Report Due**{: .label .label-yellow} **Paper Reading**{: .label .label-red} [DexTreme](https://arxiv.org/abs/2210.13702) **Guest Lecture at 11am (Towne 225)**{: .label .label-blue}
+  : **Project Midterm Report Due**{: .label .label-yellow} **Paper Reading**{: .label .label-red} [DexNet](https://arxiv.org/abs/1703.09312) **Guest Lecture at 11am (Towne 225)**{: .label .label-blue}
 
 Mar. 25
 : Lifelong Learning I 
