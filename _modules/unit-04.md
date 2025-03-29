@@ -6,15 +6,15 @@ title: Frontiers
 
 
 Apr. 1
-: Challenges for the field I
-  : **Paper Reading**{: .label .label-red} 
+: Robot Design
+  : **Paper Reading**{: .label .label-red} [A Mathematical Theory of Co-Design](https://arxiv.org/abs/1512.08055), [Leonardo](https://www.science.org/doi/10.1126/scirobotics.abf8136)
 
 Apr. 3
-: Challenges for the field II
-  : **Paper Reading**{: .label .label-red}
+: Safety
+  : **Paper Reading**{: .label .label-red} [Conformal Intro (Ch. 1 & 2)](https://arxiv.org/abs/2107.07511), [Robot Help](https://arxiv.org/abs/2307.01928)
 
 Apr. 8
-: Challenges for the field III
+: Multi-Agent Intelligence
   : **Paper Reading**{: .label .label-red}
 
 Apr. 10
@@ -22,7 +22,7 @@ Apr. 10
   : [Dhruv Shah](https://robodhruv.github.io/) 
 
 Apr. 15
-: Challenges for the field IV
+: Learning from Human Feedback
   : **Paper Reading**{: .label .label-red}
 
 Apr. 17
