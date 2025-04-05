@@ -15,7 +15,7 @@ Apr. 3
 
 Apr. 8
 : Multi-Agent Intelligence
-  : **Paper Reading**{: .label .label-red}
+  : **Paper Reading**{: .label .label-red} [Drone Swarm Control](https://sites.google.com/view/obst-avoid-swarm-rl) [Dialectic Collaboration](https://ieeexplore.ieee.org/abstract/document/10610855?casa_token=KZ7mDTtTm-UAAAAA:gHvsHqB6yjv0Kh_DQWdThTMfmCOfEfC9e9fpuRXCqRHCB8bBRUjP56oFXQDjU11YDeQqC3nC9Q) 
 
 Apr. 10
 : **Guest Lecture**{: .label .label-green} 
@@ -23,7 +23,7 @@ Apr. 10
 
 Apr. 15
 : Learning from Human Feedback
-  : **Paper Reading**{: .label .label-red}
+  : **Paper Reading**{: .label .label-red} [TAMER](https://ojs.aaai.org/index.php/AAAI/article/view/11485) [Aligning HR Representations](https://dl.acm.org/doi/abs/10.1145/3610977.3634987)
 
 Apr. 17
   : **Guest Lecture**{: .label .label-green} 
